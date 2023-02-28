@@ -13,5 +13,5 @@
 //     console.log(error);
 //     return;
 //   }
-//   console.log(coor);
+//   console.log("It worked! Returned coordinatess: ",coor);
 // });
